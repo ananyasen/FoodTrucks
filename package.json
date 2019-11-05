@@ -1,0 +1,21 @@
+{
+  "name": "foodtruckfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FoodTruckFinder.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2",
+    "cross-fetch": "^3.0.4",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
