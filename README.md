@@ -1,5 +1,5 @@
 ### Use Case
-This is a CLI to print out a list of food trucks that are open at the current date and current time. 
+This is a toy CLI to print out a list of food trucks that are open at the current date and current time. 
 For ease of use, user can view the results few at a time. 
 
 !['food truck!'](./Output_FoodTrucksOpenNow_CLI_Questions.png "Find Food Trucks")
