@@ -1,10 +1,3 @@
-Ask:
-Write-up that best showcases your technical expertise describing how you would take 
-this proof-of-concept command line application and convert it to a fully featured web application 
-using the data provided by the Socrata API capable of serving millions of concurrent users. 
-Imagine this write-up will be used to pitch your architecture to the team so make sure to explain 
-why you would make those choices.
-
 ### Some Use Cases
 1. I want to view food trucks, near me, for particular cuisines, that are open at the current date and current time
 2. Show me the Map location for a Food Truck I like
