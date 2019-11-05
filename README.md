@@ -1,4 +1,3 @@
-### Use Case
 This is a toy CLI to print out a list of food trucks that are open at the current date and current time. 
 For ease of use, user can view the results few at a time. 
 
